@@ -1,7 +1,9 @@
 function generate(data) {
     return `
-## Project title: ${data.title} 
-## Project by ${data.name}
+## Project title: 
+  ${data.title} 
+## Project by 
+  ${data.name}
   ![](${data.avatar_url})
 ## Email adress: ${data.email}
 ## Description: ${data.description}
@@ -15,7 +17,7 @@ function generate(data) {
     - [Questions](#Questions)
   
 ## Installation 
-   ${data.installation}
+  ${data.installation}
   
 ## Usage
   ${data.usage}

@@ -6,8 +6,8 @@
 ## Description: this is a nodeJS project to auto generate readme file
 ## Table of Contents
 
-    - [Installation](#installation)
-    - [Usage](#Usage)
+    - [Installation](installation)
+    - [Usage](Usage)
     - [License](#License)
     - [Contributing](#Contributing)
     - [Tests](#Tests)

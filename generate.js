@@ -2,9 +2,10 @@ function generate(data) {
     return `
 ## Project title: 
   ${data.title}
-   
+
 ## Project by 
   ${data.name}
+##
   ![](${data.avatar_url})
 ## Email adress: 
   ${data.email}

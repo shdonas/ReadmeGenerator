@@ -1,12 +1,18 @@
 function generate(data) {
     return `
 ## Project title: 
-  ${data.title} 
+  ${data.title}
+   
 ## Project by 
   ${data.name}
   ![](${data.avatar_url})
-## Email adress: ${data.email}
-## Description: ${data.description}
+## Email adress: 
+  ${data.email}
+## GitHub: 
+  ${data.html_url}
+
+## Description: 
+  ${data.description}
 ## Table of Contents
 
     - [Installation](#installation)
@@ -31,7 +37,7 @@ function generate(data) {
 ## Tests
   ${data.tests}
   
-  ## Questions
+## Questions
   Questions`;
 }
 

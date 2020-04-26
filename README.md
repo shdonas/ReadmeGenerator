@@ -1,32 +1,40 @@
 
-## Project title: Readme Generator 
-## Project by Shakhawat Hossain
+## Project title: 
+  readme Generator
+   
+## Project by 
+  Shakhawat Hossain
   ![](https://avatars3.githubusercontent.com/u/25496922?v=4)
-## Email adress: sh_donas
-## Description: this is a nodeJS project to auto generate readme file
+## Email adress: 
+  sh_donas@yahoo.com
+## GitHub: 
+  https://github.com/shdonas
+
+## Description: 
+  this is a nodeJS project to auto generate readme file
 ## Table of Contents
 
-    - [Installation](installation)
-    - [Usage](Usage)
+    - [Installation](#installation)
+    - [Usage](#Usage)
     - [License](#License)
     - [Contributing](#Contributing)
     - [Tests](#Tests)
     - [Questions](#Questions)
   
 ## Installation 
-   node.js
+  npm init
   
 ## Usage
-  lot
+  lot lot
   
 ## License
-  other
+  MIT
   
 ## Contributing
-  upenn
+  donas
   
 ## Tests
-  no test
+  none
   
 ## Questions
   Questions
